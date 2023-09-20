@@ -36,4 +36,4 @@ The steps that I need to take to accomplish this task:
 <img src="https://i.imgur.com/jSfNott.png" alt="image"/>
 
 <br/>
-In summary, with this code I can create a function that I can pass in a file path of a .txt file containing a list of items that I want to keep, and pass another list of items that I want to remove from the first list. The function will convert the text (string) into a workable format (list) and manipulate the list and then convert the list back into a string to save as an updated .txt file. 
+In summary, with this code I can create a function that I can pass in a file path of a .txt file containing a list of items that I want to keep, and pass another list of items that I want to remove from the first list. The function will convert the text (string) into a more readable format (list) and manipulate the contents and then convert the list back into a string to be saved as an updated .txt file. 
